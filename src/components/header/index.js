@@ -7,7 +7,7 @@ const Header = (props) => {
     <header data-test="headerComponent">
       <div className="wrap">
         <div className="logo">
-          {/* <img data-test="logoIMG" src={Logo} alt="Logo" /> */}
+          <img data-test="logoIMG" alt="Logo" />
         </div>
       </div>
     </header>
